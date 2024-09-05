@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombineVisitorWithComposite
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{A024FBD2-424A-4341-A117-20AE281E9978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{950B9B25-ED93-43C8-9A4F-9361CEC82916}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{950B9B25-ED93-43C8-9A4F-9361CEC82916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{C7481D30-AA39-408E-A852-D9848824636A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{950B9B25-ED93-43C8-9A4F-9361CEC82916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{950B9B25-ED93-43C8-9A4F-9361CEC82916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{950B9B25-ED93-43C8-9A4F-9361CEC82916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7481D30-AA39-408E-A852-D9848824636A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7481D30-AA39-408E-A852-D9848824636A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7481D30-AA39-408E-A852-D9848824636A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7481D30-AA39-408E-A852-D9848824636A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
