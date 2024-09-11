@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{10215265-9960-43A4-A698-0983F828EF34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainsOfResponsibility", "ChainsOfResponsibility\ChainsOfResponsibility.csproj", "{EF597862-086D-4660-AFF5-E26D9499F6F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainsOfResponsibility", "ChainsOfResponsibility\ChainsOfResponsibility.csproj", "{EF597862-086D-4660-AFF5-E26D9499F6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{70903B0D-ED73-4AB6-B030-F5F59B721804}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{EF597862-086D-4660-AFF5-E26D9499F6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF597862-086D-4660-AFF5-E26D9499F6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF597862-086D-4660-AFF5-E26D9499F6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70903B0D-ED73-4AB6-B030-F5F59B721804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70903B0D-ED73-4AB6-B030-F5F59B721804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70903B0D-ED73-4AB6-B030-F5F59B721804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70903B0D-ED73-4AB6-B030-F5F59B721804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
