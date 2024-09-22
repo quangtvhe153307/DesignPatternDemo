@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainsOfResponsibility", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter", "Interpreter\Interpreter.csproj", "{70903B0D-ED73-4AB6-B030-F5F59B721804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObjectPattern", "NullObjectPattern\NullObjectPattern.csproj", "{19528F18-7152-4A5C-8F30-BC587D06CFD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullObjectPattern", "NullObjectPattern\NullObjectPattern.csproj", "{19528F18-7152-4A5C-8F30-BC587D06CFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollectionExample", "GarbageCollectionExample\GarbageCollectionExample.csproj", "{913C1593-5334-4827-A718-B246E328E682}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{19528F18-7152-4A5C-8F30-BC587D06CFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19528F18-7152-4A5C-8F30-BC587D06CFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19528F18-7152-4A5C-8F30-BC587D06CFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913C1593-5334-4827-A718-B246E328E682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913C1593-5334-4827-A718-B246E328E682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913C1593-5334-4827-A718-B246E328E682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913C1593-5334-4827-A718-B246E328E682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
