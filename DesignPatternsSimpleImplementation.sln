@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter", "Interpreter\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullObjectPattern", "NullObjectPattern\NullObjectPattern.csproj", "{19528F18-7152-4A5C-8F30-BC587D06CFD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollectionExample", "GarbageCollectionExample\GarbageCollectionExample.csproj", "{913C1593-5334-4827-A718-B246E328E682}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollectionExample", "GarbageCollectionExample\GarbageCollectionExample.csproj", "{913C1593-5334-4827-A718-B246E328E682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryLeaksExample", "MemoryLeaksExample\MemoryLeaksExample.csproj", "{FB4D5A1F-AF2E-4500-9771-7B5AB99C2AD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{913C1593-5334-4827-A718-B246E328E682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{913C1593-5334-4827-A718-B246E328E682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{913C1593-5334-4827-A718-B246E328E682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4D5A1F-AF2E-4500-9771-7B5AB99C2AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4D5A1F-AF2E-4500-9771-7B5AB99C2AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4D5A1F-AF2E-4500-9771-7B5AB99C2AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4D5A1F-AF2E-4500-9771-7B5AB99C2AD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
